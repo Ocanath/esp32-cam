@@ -1,3 +1,6 @@
 [submodule "external/dartt-protocol"]
 	path = external/dartt-protocol
 	url = https://github.com/ocanath/dartt-protocol
+[submodule "external/xiao-esp32-camera-stream"]
+	path = external/xiao-esp32-camera-stream
+	url = https://github.com/Ocanath/xiao-esp32-camera-stream

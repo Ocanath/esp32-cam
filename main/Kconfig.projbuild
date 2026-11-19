@@ -1,0 +1,13 @@
+menu "Robot Cam"
+
+    config ROBOT_CAM_LED_GPIO
+        int "Blinky LED GPIO"
+        default 21
+        help
+            XIAO ESP32S3 user LED (active low) is on GPIO21.
+
+    config ROBOT_CAM_BLINK_MS
+        int "Blink half-period (ms)"
+        default 500
+
+endmenu

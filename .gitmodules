@@ -4,3 +4,9 @@
 [submodule "external/xiao-esp32-camera-stream"]
 	path = external/xiao-esp32-camera-stream
 	url = https://github.com/Ocanath/xiao-esp32-camera-stream
+[submodule "external/byte-stuffing"]
+	path = external/byte-stuffing
+	url = https://github.com/ocanath/byte-stuffing
+[submodule "external/dartt_audio"]
+	path = external/dartt_audio
+	url = https://github.com/ocanath/dartt_audio
